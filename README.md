@@ -1,3 +1,7 @@
+2026-04-02
+- Removed the ConvBlocked logic.  Not required.
+
+
 2026-03-31
 - Updated HMI_Display routines.  Typos, spelling.
 - Adjusted Keyence lasers y-axis
