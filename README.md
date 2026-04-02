@@ -1,5 +1,5 @@
 2026-04-02
-- Removed the ConvBlocked logic.  Not required.
+- Removed the ConvBlocked logic I was testing.  Not required.
 
 
 2026-03-31
