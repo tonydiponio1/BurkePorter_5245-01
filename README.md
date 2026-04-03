@@ -6,6 +6,7 @@
 - Updated HMI_Display routines.  Typos, spelling.
 - Adjusted Keyence lasers y-axis
     - LN1 13001 -1.5mm in y
+    - LN1 13101 -1.5mm in y
     - LN2 13001 -3mm in y
     - LN2 13101 -3mm in y
     - LN3 13001 -2.5mm in y
