@@ -1,5 +1,5 @@
 2026-04-09
-- Adjusted PLC and HMI files to include 2 new cameras (Camera CTRL routines, Cycle_Inspection, Cycle_Inspection_HMI, ProcessTasks, Rabbit, OpStatus, OpMode)
+- Adjusted PLC and HMI files to include 2 new cameras (Camera CTRL routines, Cycle_Inspection, Cycle_Inspection_HMI, ProcessTasks, Rabbit, OpStatus, OpMode, Map_In&Out)
 - Updated all cycle routines 1st rung to use AutoCycle in place of InCycle
 - Updated all Cyclexxxx_HMI routines SFS rung 
 
