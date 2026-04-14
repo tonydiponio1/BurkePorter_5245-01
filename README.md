@@ -1,5 +1,9 @@
+2026-04-13
+- Had to remove unknown tools from the Pass/Fail decision in the old cameras.  They were left in the descion even after the tools were deleted. 
+
+
 2026-04-10
-- Keyence adjuted tools in old and new cameras to seperate Short Leg & Long Leg
+- Keyence adjusted tools in old & new cameras to seperate Short Leg & Long Leg
 - They scaled the judgements to mm instead of pixels & added the limits in mm for each judgement
 
 
