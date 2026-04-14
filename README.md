@@ -1,3 +1,9 @@
+2026-04-10
+- Keyence adjuted tools in old and new cameras to seperate Short Leg & Long Leg
+- They scaled the judgements to mm instead of pixels & added the limits in mm for each judgement
+
+
+
 2026-04-09
 - Adjusted PLC and HMI files to include 2 new cameras (Camera CTRL routines, Cycle_Inspection, Cycle_Inspection_HMI, ProcessTasks, Rabbit, OpStatus, OpMode, Map_In&Out)
 - Updated all cycle routines 1st rung to use AutoCycle in place of InCycle
