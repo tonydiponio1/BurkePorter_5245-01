@@ -2,7 +2,7 @@
 2026-04-15
 - Made adjustments to all cameras while running parts to tune in tools after scaling and new setup.
 - Updated the Andon AOI to v1.1
-- Updated the Ascentaliytics logic
+- Updated the Ascentialytics logic
 
 
 2026-04-14
