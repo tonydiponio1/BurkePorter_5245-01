@@ -1,5 +1,6 @@
 2026-04-16
 - Updated the Andon HMI Global object to match the v1.1 AOI
+- Changed Hand Scanner HMI fault message to a yellow WARN:
 
 
 2026-04-15
