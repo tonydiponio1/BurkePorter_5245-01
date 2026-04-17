@@ -1,3 +1,7 @@
+2026-04-17
+- Added the FTP tools to the 6 new cameras so we have Data for Keyence to run simulations with.
+
+
 2026-04-16
 - Updated the Andon HMI Global object to match the v1.1 AOI
 - Changed Hand Scanner HMI communication fault message to a yellow WARN:
