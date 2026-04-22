@@ -1,3 +1,7 @@
+2026-04-22
+- Updated the 3 lane Cycle_Inspection routines and all the lane camera routines to include CycleStep[4] to reset all cameras prior to laser tab fold checks. As per task update from David M. 
+
+
 2026-04-17
 - Added the FTP tools to the 6 new cameras so we have Data for Keyence to run simulations with.
 
