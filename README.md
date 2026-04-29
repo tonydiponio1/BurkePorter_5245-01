@@ -1,5 +1,6 @@
 2026-04-29
 - Updated HMIs & PLC for WARN about both WIP nests full [308], & FAULT for Part stuck in reject chute [309]
+- Updated PLC for Status.Fail logic, ProcessStarted OTU logic, tag descriptions for ProcessStarted, Conveyor WIP count failsafe logic.
 
 
 2026-04-24
