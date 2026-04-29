@@ -1,3 +1,7 @@
+2026-04-29
+- Updated HMIs & PLC for WARN about both WIP nests full [308], & FAULT for Part stuck in reject chute [309]
+
+
 2026-04-24
 - Updated incorrect messages on all HMIs for robot access door
 - Updated the Ascentialytics UDT and routines
