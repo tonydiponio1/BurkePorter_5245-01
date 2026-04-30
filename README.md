@@ -1,3 +1,7 @@
+2026-04-30
+- Updated PLC logic to get dry cycle working again.
+
+
 2026-04-29
 - Updated HMIs & PLC for WARN about both WIP nests full [308], & FAULT for Part stuck in reject chute [309]
 - Updated PLC for Status.Fail logic, ProcessStarted OTU logic, tag descriptions for ProcessStarted, Conveyor WIP count failsafe logic.
