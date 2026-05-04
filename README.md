@@ -1,3 +1,6 @@
+2026-05-01
+- Updated PLC logic for new camera background Popups on Lane 1 only.
+
 2026-04-30
 - Updated PLC logic to get dry cycle working again.
 
