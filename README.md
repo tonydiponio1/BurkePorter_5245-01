@@ -1,3 +1,6 @@
+2026-05-04
+- Updated PLC logic to disable the TabFold part clamp and grip to Manually go home if the PartNotFlipped sensor is not off. Done on all lanes.
+
 2026-05-01
 - Updated PLC logic for new camera background Popups on Lane 1 only.
 
