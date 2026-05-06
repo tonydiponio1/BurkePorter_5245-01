@@ -1,3 +1,6 @@
+2026-05-05
+- Added counter for camera fails (request from Hari to Dave M).  One rung per lane at the end of the Main routine.
+
 2026-05-04
 - Updated PLC logic to disable the TabFold part clamp and grip to Manually go home if the PartNotFlipped sensor is not off. Done on all lanes.
 
