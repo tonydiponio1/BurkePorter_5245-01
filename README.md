@@ -1,3 +1,7 @@
+2026-05-07
+- Made 2 updates to Rbt CTRL routines sent by Dave M. to prevent sending th rbt to Lane pick in manual and sending the rbt to Maint position from the Conveyor HMI while the lane access door was down.
+  
+
 2026-05-05
 - Added counter for camera fails (request from Hari to Dave M).  One rung per lane at the end of the Main routine.
   
