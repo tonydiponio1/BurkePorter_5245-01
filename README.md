@@ -1,3 +1,6 @@
+2026-05-14
+- Update for InspectionVacCtrl.I_manualOff to account for both Gantry and Inspect stand having vacuum on when trying to Home the machine.
+
 2026-05-13
 - Updated logic for the Tab Fold station cycle steps.  In an effort to avoid transfering the part without it being flipped after a fault.
 
