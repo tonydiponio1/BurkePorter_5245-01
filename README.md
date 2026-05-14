@@ -1,3 +1,6 @@
+2026-05-13
+- Updated logic for the Tab Fold station cycle steps.  In an effort to avoid transfering the part without it being flipped after a fault.
+
 2026-05-12
 - Added Tape Low counters to initiate faults after 10 parts. 6 counters per lane.
 - Added WIP Purge after 500 parts.  RbtAccess door goes up, HMI message, resets itself after both WIP nests are Empty.
